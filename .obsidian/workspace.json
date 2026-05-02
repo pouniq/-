@@ -6,6 +6,7 @@
       {
         "id": "215f0bfc8b00ff70",
         "type": "tabs",
+        "dimension": 55.014326647564474,
         "children": [
           {
             "id": "e9915d478eab9520",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter14-Regression/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -26,6 +27,7 @@
       {
         "id": "0e5ee3291c99f980",
         "type": "tabs",
+        "dimension": 44.985673352435526,
         "children": [
           {
             "id": "6d91c911c38c212a",
@@ -203,9 +205,11 @@
   },
   "active": "e9915d478eab9520",
   "lastOpenFiles": [
-    "Chapter14-Regression/imgs/Table3.png",
     "Chapter14-Regression/README.md",
+    "README.md",
     "Original Book/IntroductionToStatistics.pdf",
+    "Chapter14-Regression/imgs/Figure3.png",
+    "Chapter14-Regression/imgs/Table3.png",
     "Chapter14-Regression/imgs/Table2.png",
     "Chapter14-Regression/imgs/Figure1.png",
     "Chapter14-Regression/imgs/Figure2.png",
@@ -241,7 +245,6 @@
     "Chapter01-Introduction/README.md",
     "().md",
     "Chapter14-Regression/imgs/Table.md",
-    "README.md",
     "Untitled.md"
   ]
 }
